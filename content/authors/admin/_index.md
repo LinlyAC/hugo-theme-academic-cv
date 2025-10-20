@@ -151,6 +151,42 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: 1st Place, Person Re-identification Challenge
+    #url: https://neurips.cc/
+    date: '2025-10-01'
+    awarder: Chinese Conference on Pattern Recognition and Computer Vision
+    icon: hero/trophy
+
+  - title: Outstanding Doctoral Dissertation
+    #url: https://neurips.cc/
+    date: '2025-07-01'
+    awarder: Sun Yat-Sen University
+    # icon: hero/trophy
+  
+  - title: Academic Star
+    #url: https://neurips.cc/
+    date: '2024-12-01'
+    awarder: Sun Yat-Sen University
+    # icon: hero/trophy
+  
+  - title: Best Paper Candidate, ICME
+    url: https://2024.ieeeicme.org/awards/
+    date: '2024-07-01'
+    awarder: IEEE International Conference on Multimedia and Expo
+    # icon: hero/trophy
+  
+  - title: Best Paper Candidate, CCBR
+    #url: https://2024.ieeeicme.org/awards/
+    date: '2022-12-01'
+    awarder: Chinese Conference on Biometric Recognition
+    # icon: hero/trophy
+  
+  - title: Chinese National Scholarship
+    #url: https://2024.ieeeicme.org/awards/
+    date: '2022-12-01'
+    awarder: Ministry of Education, China
+    # icon: hero/trophy
+  
   - title: Best Paper Award
     url: https://neurips.cc/
     date: '2022-12-01'
