@@ -48,21 +48,22 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0002-2042-2054
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Computer Vision & AI
+  - Object Recognition
+  - Data Synthesis
+  - Reasoning LLMs
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD, Computer Science & Technology
+    institution: Sun Yat-Sen University
+    date_start: 2020-09-01
+    date_end: 2024-12-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      + Supervised by Prof. Jianhuang Lai.
+      + Dissertation Title: “Decoupling-based Approaches on Person Re-Identification: from Individuals to Groups”
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com/thesis.pdf'
   - area: MS Computer Science
     institution: Carnegie Mellon University
     date_start: 2013-09-01
