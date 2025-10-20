@@ -60,84 +60,91 @@ education:
     date_end: 2024-12-30
     summary: |
       + Supervised by Prof. Jianhuang Lai.
-      + Dissertation Title: “Decoupling-based Approaches on Person Re-Identification: from Individuals to Groups”
+      + Dissertation Title: “Decoupling-based Approaches on Person Re-Identification: from Individuals to Groups”.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+
+  - area: Visiting PhD, Electronic Engineering
+    institution: Johns Hopkins University
+    date_start: 2023-08-01
+    date_end: 2024-08-01
+    summary: |
+      Supervised by Prof. Vishal M. Patel.
+
+  - area: MEng, Computer Science & Technology
+    institution: Sun Yat-Sen University
+    date_start: 2017-09-01
+    date_end: 2020-06-31
+    summary: |
+      Supervised by Prof. Jianhuang Lai.
+  
+  - area: BEng, Information Security
+    institution: Sun Yat-Sen University
     date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_end: 2017-06-31
     summary: |
-      GPA: 4.0/4.0
+      Supervised by Prof. Jianhuang Lai.
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
+# work:
+#   - position: Senior AI Research Scientist
+#     company_name: Meta AI
+#     company_url: 'https://ai.meta.com/'
+#     company_logo: ''
+#     date_start: 2020-01-01
+#     date_end: ''
+#     summary: |2-
+#       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+#   - position: AI Research Intern
+#     company_name: OpenAI
+#     company_url: 'https://openai.com/'
+#     company_logo: ''
+#     date_start: 2019-06-01
+#     date_end: 2019-12-31
+#     summary: |
+#       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
-      Minored in Mathematics. President of AI Club.
-
-work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+# # Skills
+# # Add your own SVG icons to `assets/media/icons/`
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python & PyTorch
+#         description: ''
+#         percent: 95
+#         icon: code-bracket
+#       - name: Machine Learning
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: Cloud Computing (AWS/GCP)
+#         description: ''
+#         percent: 85
+#         icon: cloud
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking in the Rockies
+#         description: ''
+#         percent: 80
+#         icon: person-simple-walk
+#       - name: Building Custom PCs
+#         description: ''
+#         percent: 90
+#         icon: cpu-chip
+#       - name: Sci-Fi Reading
+#         description: ''
+#         percent: 70
+#         icon: book-open
 
 languages:
-  - name: English
+  - name: Mandarin
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: English
+    percent: 75
+  - name: Cantonese
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
