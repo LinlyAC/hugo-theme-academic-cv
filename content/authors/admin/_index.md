@@ -187,27 +187,31 @@ awards:
     awarder: Ministry of Education, China
     # icon: hero/trophy
   
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+  # - title: Best Paper Award
+  #   url: https://neurips.cc/
+  #   date: '2022-12-01'
+  #   awarder: NeurIPS
+  #   icon: hero/trophy
+  #   summary: |
+  #     Awarded for groundbreaking work on efficient training of large models.
+  # - title: AI Innovation Grant
+  #   url: https://www.nsf.gov/
+  #   date: '2021-06-15'
+  #   awarder: National Science Foundation
+  #   icon: hero/currency-dollar
+  #   summary: |
+  #     $500,000 grant for research in ethical AI development.
+  # - title: Outstanding PhD Thesis
+  #   url: https://www.stanford.edu/
+  #   date: '2019-06-30'
+  #   awarder: Stanford University
+  #   icon: hero/academic-cap
+  #   summary: |
+  #     Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Quan Zhang is currently a postdoctoral fellow at Sun Yat-sen University. Prior to that, he earned his Ph.D. (2024), M.Eng. (2020), and B.Eng. (2017) degrees from Sun Yat-sen University, under the supervision of Prof. Jianhuang Lai. During his Ph.D., he was a visiting scholar at Johns Hopkins University, collaborating closely with Prof. Vishal M. Patel. His research interests include deep learning and computer vision, with a particular emphasis on object re-identification and virtual 3D data synthesis. He has published several papers in top-tier journals and conferences, such as TPAMI, IJCV, TIP, CVPR, and AAAI.
+
+*<span style="color:red;">I am currently looking for highly self-motivated Ph.D./M.S./B.S. students, and research assistants. Please feel free to contact me if you are interested in collaboration.*
+
+
