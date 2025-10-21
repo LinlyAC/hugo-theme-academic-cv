@@ -148,42 +148,42 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: 1st Place, Person Re-identification Challenge
-#     #url: https://neurips.cc/
-#     date: '2025-10-01'
-#     awarder: Chinese Conference on Pattern Recognition and Computer Vision
-#     icon: hero/trophy
+awards:
+  - title: 1st Place, Person Re-identification Challenge
+    #url: https://neurips.cc/
+    date: '2025-10-01'
+    awarder: Chinese Conference on Pattern Recognition and Computer Vision
+    icon: hero/trophy
 
-#   - title: Outstanding Doctoral Dissertation
-#     #url: https://neurips.cc/
-#     date: '2025-07-01'
-#     awarder: Sun Yat-Sen University
-#     # icon: hero/trophy
+  - title: Outstanding Doctoral Dissertation
+    #url: https://neurips.cc/
+    date: '2025-07-01'
+    awarder: Sun Yat-Sen University
+    # icon: hero/trophy
   
-#   - title: Academic Star
-#     #url: https://neurips.cc/
-#     date: '2024-12-01'
-#     awarder: Sun Yat-Sen University
-#     # icon: hero/trophy
+  - title: Academic Star
+    #url: https://neurips.cc/
+    date: '2024-12-01'
+    awarder: Sun Yat-Sen University
+    # icon: hero/trophy
   
-#   - title: Best Paper Candidate, ICME
-#     url: https://2024.ieeeicme.org/awards/
-#     date: '2024-07-01'
-#     awarder: IEEE International Conference on Multimedia and Expo
-#     # icon: hero/trophy
+  - title: Best Paper Candidate, ICME
+    url: https://2024.ieeeicme.org/awards/
+    date: '2024-07-01'
+    awarder: IEEE International Conference on Multimedia and Expo
+    # icon: hero/trophy
   
-#   - title: Best Paper Candidate, CCBR
-#     #url: https://2024.ieeeicme.org/awards/
-#     date: '2022-12-01'
-#     awarder: Chinese Conference on Biometric Recognition
-#     # icon: hero/trophy
+  - title: Best Paper Candidate, CCBR
+    #url: https://2024.ieeeicme.org/awards/
+    date: '2022-12-01'
+    awarder: Chinese Conference on Biometric Recognition
+    # icon: hero/trophy
   
-#   - title: Chinese National Scholarship
-#     #url: https://2024.ieeeicme.org/awards/
-#     date: '2022-12-01'
-#     awarder: Ministry of Education, China
-#     # icon: hero/trophy
+  - title: Chinese National Scholarship
+    #url: https://2024.ieeeicme.org/awards/
+    date: '2022-12-01'
+    awarder: Ministry of Education, China
+    # icon: hero/trophy
   
   # - title: Best Paper Award
   #   url: https://neurips.cc/
@@ -208,7 +208,7 @@ languages:
   #     Recognized for contributions to scaling laws in deep learning.
 ---
 
-Quan Zhang is currently a postdoctoral fellow at Sun Yat-sen University. Prior to that, he earned his Ph.D. (2024), M.Eng. (2020), and B.Eng. (2017) degrees from Sun Yat-sen University, under the supervision of Prof. Jianhuang Lai. During his Ph.D., he was a visiting scholar at Johns Hopkins University, collaborating closely with Prof. Vishal M. Patel. His research interests include deep learning and computer vision, with a particular emphasis on object re-identification and virtual 3D data synthesis. He has published several papers in top-tier journals and conferences, such as TPAMI, IJCV, TIP, CVPR, and AAAI.
+Quan Zhang is currently a postdoctoral fellow at Sun Yat-sen University. Prior to that, he earned his Ph.D. (2024), M.Eng. (2020), and B.Eng. (2017) degrees from Sun Yat-sen University, under the supervision of Prof. Jianhuang Lai. During his Ph.D., he was a visiting PhD at Johns Hopkins University, collaborating closely with Prof. Vishal M. Patel. His research interests include deep learning and computer vision, with a particular emphasis on object re-identification and virtual 3D data synthesis. He has published several papers in top-tier journals and conferences, such as TPAMI, IJCV, TIP, CVPR, and AAAI.
 
 *<span style="color:red;">I am currently looking for highly self-motivated Ph.D./M.S./B.S. students, and research assistants. Please feel free to contact me if you are interested in collaboration.*
 
