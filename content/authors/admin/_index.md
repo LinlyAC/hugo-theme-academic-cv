@@ -73,14 +73,14 @@ education:
   - area: MEng, Computer Science & Technology
     institution: Sun Yat-Sen University
     date_start: 2017-09-01
-    date_end: 2020-06-31
+    date_end: 2020-06-30
     summary: |
       Supervised by Prof. Jianhuang Lai.
   
   - area: BEng, Information Security
     institution: Sun Yat-Sen University
     date_start: 2013-09-01
-    date_end: 2017-06-31
+    date_end: 2017-06-30
     summary: |
       Supervised by Prof. Jianhuang Lai.
 
