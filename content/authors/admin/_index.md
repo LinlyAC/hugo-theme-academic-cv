@@ -64,14 +64,12 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com/thesis.pdf'
-
   - area: Visiting PhD, Electronic Engineering
     institution: Johns Hopkins University
     date_start: 2023-08-01
     date_end: 2024-08-01
     summary: |
       Supervised by Prof. Vishal M. Patel.
-
   - area: MEng, Computer Science & Technology
     institution: Sun Yat-Sen University
     date_start: 2017-09-01
